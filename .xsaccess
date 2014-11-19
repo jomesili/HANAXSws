@@ -1,0 +1,8 @@
+{
+"exposed":true,
+"default_file": "index.html",
+"authentication": [{
+		"method":"Basic"
+		}
+		]
+	}
